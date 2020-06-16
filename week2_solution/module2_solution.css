@@ -1,0 +1,257 @@
+@media (min-width: 992px) {
+#title {
+	text-align: center;
+}
+#firstt {
+	vertical-align: top;
+	text-align: center;
+	background-color: red;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#secondt {
+	vertical-align: top;
+	text-align: center;
+	background-color: skyblue;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#thirdt {
+	vertical-align: top;
+	text-align: center;
+	background-color: yellow;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#firstp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: pink;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#secondp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: lightgreen;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#thirdp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: lightpink;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid;
+	border-color: black;
+}
+}
+@media(min-width: 768px) and (max-width: 991px) {
+#title {
+text-align: center;
+}
+#firstt {
+	vertical-align: top;
+	text-align: center;
+	background-color: red;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#secondt {
+	vertical-align: top;
+	text-align: center;
+	background-color: skyblue;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#thirdt {
+	vertical-align: top;
+	text-align: center;
+	background-color: yellow;
+	padding: 10px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#firstp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 48%;
+	background-color: pink;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#secondp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 48%;
+	background-color: lightgreen;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#thirdp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: lightpink;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid;
+	border-color: black;
+}
+}
+
+@media (max-width: 767px){
+#title {
+	text-align: center;
+}
+#firstt {
+	vertical-align: top;
+	text-align: center;
+	background-color: red;
+	padding: 5px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#secondt {
+	vertical-align: top;
+	text-align: center;
+	background-color: skyblue;
+	padding: 5px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#thirdt {
+	vertical-align: top;
+	text-align: center;
+	background-color: yellow;
+	padding: 5px;
+	margin-left: 50%;
+	margin-top: 0px;
+	border: 1px solid;
+	border-color: black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#firstp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: pink;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#secondp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: lightgreen;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid;
+	border-color: black;
+}
+
+#thirdp {
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 100%;
+	background-color: lightpink;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid;
+	border-color: black;
+}
+
+}
